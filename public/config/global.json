@@ -1,0 +1,17 @@
+{
+  "admin_url": "https://app.joinscarlett.co.uk/",
+  "supported_languages": [
+    "en",
+    "de",
+    "fr",
+    "pt",
+    "ar"
+  ],
+  "api_path": "api/",
+  "loading_time": 5000,
+  "received": 1,
+  "accepted": 10,
+  "in_progress": 20,
+  "done": 30,
+  "failed": 40
+}
